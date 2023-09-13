@@ -6,7 +6,7 @@ Introduction to AI &amp; NLP(NMT)
 Hi, we are **'All for One'** team! 🤗
 <br>
 <br>
-We gave lectures for BUET *Bangladesh University of Engineering and Technology) students 🇧🇩
+We gave lectures for **BUET (Bangladesh University of Engineering and Technology)** students 🇧🇩
 <br>
 <br>
 Supported by **NIA (National Information Society Agency, 한국지능정보사회진흥원)**
