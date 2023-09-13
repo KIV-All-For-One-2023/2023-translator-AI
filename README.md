@@ -1,4 +1,4 @@
-# AI
+# 2023-translator-AI
 Introduction to AI &amp; NLP(NMT)
 
 ## ❣️ Team
